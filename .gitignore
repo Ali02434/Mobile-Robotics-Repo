@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.blend1
+*.zip
+poses.jsonl
+debug/
+IMG_*.jpeg
+270f45897b8949d59e479454691084a0/
+f76cc2e1cf184d6d90c3c32adb173687/
